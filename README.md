@@ -1,4 +1,2 @@
 # NCFRepo1
-hi
-hi
-hi
+아 일하기 싫다
